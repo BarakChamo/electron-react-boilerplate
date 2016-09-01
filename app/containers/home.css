@@ -1,0 +1,16 @@
+.name {
+  font-weight: 100;
+}
+
+.input {
+  background: none;
+  outline: none;
+  border: none;
+  color: inherit;
+  font: inherit;
+  border-bottom: 1px solid rgba(255,255,255,0.5);
+}
+
+.input::-webkit-input-placeholder {
+   color: rgba(255, 255, 255, 0.75) !important;
+}
